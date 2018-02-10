@@ -42,9 +42,10 @@ to create a scene for each element listed in the diagram. You'll use instancing
 
 A lot of time spent in programming games (or software in general) is on
 designing an architecture and fitting game components to that architecture.
-Designing based on scenes replaces that approach and makes development much
-faster and more straightforward, allowing you to concentrate on the game logic
-itself. Because most game components map directly to a scene, using a design-based on scene instantiation means little other architectural code is needed.
+Designing based on scenes replaces that approach, allowing you to concentrate 
+on the game logic itself, which makes development faster and more straightforward. 
+Because most game components map directly to a scene, using a design 
+based on scene instantiation means that little other architectural code is needed.
 
 Let's take a look at one more, somewhat more complex, example of an open-world
 type game with lots of assets and nested elements:
